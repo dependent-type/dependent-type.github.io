@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "While running a Minecraft club at school, amidst our activities, the offline middle school graduation ceremony was suddenly canceled due to the COVID-19 in late 2020. Putting aside our disappointment, I initiated a project with my club friends to recreate our school in Minecraft during the online class period. Using photos of the school’s exteriors, hallways, and classroom interiors taken by some of my friends who visited the school, we worked tirelessly for several nights to construct the school. Drawing from my experience as an editor on the Korean Minecraft Forum, I used the Littletiles mod, which allowed me to carve blocks at a pixel level and create custom doors, to depict the school in a more realistic manner. Additionally, using the Aperture mod that supports awesome advanced camera movement, I was able to produce dynamic showcase video. As a result, on the day of the online graduation ceremony, my friends and I gathered at the virtual school we had built in Minecraft and held a remote graduation ceremony. You can check the video of remote ceremony at my friend’s youtube."
+  },
+  {
+    "objectID": "Projects.html#virtual-graduation-with-minecraft-february-2021",
+    "href": "Projects.html#virtual-graduation-with-minecraft-february-2021",
+    "title": "Projects",
+    "section": "",
+    "text": "While running a Minecraft club at school, amidst our activities, the offline middle school graduation ceremony was suddenly canceled due to the COVID-19 in late 2020. Putting aside our disappointment, I initiated a project with my club friends to recreate our school in Minecraft during the online class period. Using photos of the school’s exteriors, hallways, and classroom interiors taken by some of my friends who visited the school, we worked tirelessly for several nights to construct the school. Drawing from my experience as an editor on the Korean Minecraft Forum, I used the Littletiles mod, which allowed me to carve blocks at a pixel level and create custom doors, to depict the school in a more realistic manner. Additionally, using the Aperture mod that supports awesome advanced camera movement, I was able to produce dynamic showcase video. As a result, on the day of the online graduation ceremony, my friends and I gathered at the virtual school we had built in Minecraft and held a remote graduation ceremony. You can check the video of remote ceremony at my friend’s youtube."
+  },
+  {
+    "objectID": "Projects.html#everyones-ocw",
+    "href": "Projects.html#everyones-ocw",
+    "title": "Projects",
+    "section": "Everyone’s OCW",
+    "text": "Everyone’s OCW\nTo realize the freedom of learning!"
+  },
+  {
+    "objectID": "Projects.html#minecraft-clone-game",
+    "href": "Projects.html#minecraft-clone-game",
+    "title": "Projects",
+    "section": "Minecraft Clone Game",
+    "text": "Minecraft Clone Game\nUse OpenGL and pygame."
+  },
+  {
+    "objectID": "docs/blog/posts/2023-08-05/index.html",
+    "href": "docs/blog/posts/2023-08-05/index.html",
+    "title": "print(“Hello, World!”)",
+    "section": "",
+    "text": "Starting a blog is always a lot of fun."
+  },
+  {
+    "objectID": "docs/blog/posts/2023-08-05/index.html#about-me",
+    "href": "docs/blog/posts/2023-08-05/index.html#about-me",
+    "title": "print(“Hello, World!”)",
+    "section": "About me",
+    "text": "About me\nHi, as I said at the main page, I am student at Seoul Science High School, studying math, computer science and physics. I’m interested at homotopy type theory, formal verification and cosmology, and so on. Currently, I’m studying type theory, and proof assistant, such as Lean and Coq."
+  },
+  {
+    "objectID": "docs/blog/posts/2023-08-05/index.html#purpose-of-blogging-and-what-will-i-post",
+    "href": "docs/blog/posts/2023-08-05/index.html#purpose-of-blogging-and-what-will-i-post",
+    "title": "print(“Hello, World!”)",
+    "section": "Purpose of blogging and what will I post",
+    "text": "Purpose of blogging and what will I post\nSharing my thoughts and summarizing the materials I’ve studied through blog posts provides me with motivation and encourages me to approach life with greater enthusiasm. The upcoming blog posts will cover the following topics:\n\nPersonal Project Promotion\nI am currently working on various projects in various fields such as “모두의 OCW” (Everyone’s OCW), study on ATP(Automated Theorem Proving), and pygame projects etc. I plan to promote and provide brief introductions to these projects. There are many exciting projects, so be sure to check them out when they are published.\nRecent Research Trends Review\nIn any field I am studying (formal verification, mathematics, game programming, physics - especially cosmology), if there are noteworthy recent studies worth sharing, I will read and summarize research papers and results to present in informative posts.\nMy Educational Values\nEducation is a strong passion of mine, and I aspire to provide quality education to young students in the future. The “Everyone’s OCW” project also aligns with this goal. Establishing educational values and writing about them will likely be personally rewarding and beneficial.\nVarious Well-Organized Posts\nQuality content improves with each post! Even if the content doesn’t specifically pertain to math or science, if I believe my arguments or various news items are worth sharing with others, I will organize them effectively and share them here.\n\nWith that said, I am excited for the journey ahead!"
+  },
+  {
+    "objectID": "docs/blog/index.html",
+    "href": "docs/blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nprint(“Hello, World!”)\n\n\nHello, World!\n\n\n\n\nanything\n\n\n\n\nStarting a blog is always a lot of fun.\n\n\n\n\n\n\nAug 5, 2023\n\n\nHyunjin Lee\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Hi, I am student at Seoul Science High School, studying math, computer science and physics. I’m interested at homotopy type theory, formal verification and cosmology, and so on. Currently, I’m studying type theory, and proof assistant, such as Lean and Coq.\nAside from math and science, I like to compose and play my own music. You can also check out my Soundcloud. I performed “Viva La Vida” by Coldplay with a loop station at the Music Sharing Concert with Seoul International High School. You can watch my performance video here.\nI also enjoy developing my own games. I developed a game for the first time called Black and White for my first-grade CS class performance assessment. The experience of creating everything from pixel art to music with my team members was really enjoyable. The concept of the game was that the background color inverts when the space bar is pressed, and the visible obstacles change. You can view the Launch trailer that I made.\nMoreover, I participated in the 2022 Korea Youth Game Jam (I’m the one in the second picture!) and won the Grand prize with my teammates. You can watch the gameplay video here. Additionally, based on this game development experience, I participated in the Woongjin Math Game Development Challenge and received an $1,000 with my team for the participant award.\nThank you for visiting my website. I hope you have some fun!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hyunjin Lee",
+    "section": "",
+    "text": "Seoul National University Science Education Institute For Gifted | Mathematics & Informatics Advanced Class | March 2019 - January 2020\nSeoul National University Science Education Institute For Gifted | Mathematics & Informatics Master’s Class | March 2020 - January 2021\n\nSeoul Science High School | March 2021 - present"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Hyunjin Lee",
+    "section": "",
+    "text": "Seoul National University Science Education Institute For Gifted | Mathematics & Informatics Advanced Class | March 2019 - January 2020\nSeoul National University Science Education Institute For Gifted | Mathematics & Informatics Master’s Class | March 2020 - January 2021\n\nSeoul Science High School | March 2021 - present"
+  },
+  {
+    "objectID": "about.html#awards",
+    "href": "about.html#awards",
+    "title": "Hyunjin Lee",
+    "section": "Awards",
+    "text": "Awards\nKorea Olympiad in Informatics (KOI) | Participant prize, May 2022\n2022 Korea Youth Game Jam | Grand prize (2nd place), Collaboration Award, Popularity Award | August 19 - 21, 2022\n2nd Woongjin Math Game Development Challenge | Participant prize ($1K), December 2022\nKorea Astronomy Olympiad | National preliminary candidate, July 2023"
+  },
+  {
+    "objectID": "about.html#activities",
+    "href": "about.html#activities",
+    "title": "Hyunjin Lee",
+    "section": "Activities",
+    "text": "Activities\nKorean Minecraft Forum Editor | August 2018 - present"
+  }
+]
