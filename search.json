@@ -14,18 +14,46 @@
     "text": "While running a Minecraft club at school, amidst our activities, the offline middle school graduation ceremony was suddenly canceled due to the COVID-19 in late 2020. Putting aside our disappointment, I initiated a project with my club friends to recreate our school in Minecraft during the online class period. Using photos of the school’s exteriors, hallways, and classroom interiors taken by some of my friends who visited the school, we worked tirelessly for several nights to construct the school. Drawing from my experience as an editor on the Korean Minecraft Forum, I used the Littletiles mod, which allowed me to carve blocks at a pixel level and create custom doors, to depict the school in a more realistic manner. Additionally, using the Aperture mod that supports awesome advanced camera movement, I was able to produce dynamic showcase video. As a result, on the day of the online graduation ceremony, my friends and I gathered at the virtual school we had built in Minecraft and held a remote graduation ceremony. You can check the video of remote ceremony at my friend’s youtube."
   },
   {
+    "objectID": "Projects.html#pygame-project-november-2021",
+    "href": "Projects.html#pygame-project-november-2021",
+    "title": "Projects",
+    "section": "Pygame Project (November 2021)",
+    "text": "Pygame Project (November 2021)\n\nI also enjoy developing my own games. I developed a game for the first time called Black and White for my first-grade CS class performance assessment. The experience of creating everything from pixel art to music with my team members was really enjoyable. The concept of the game was that the background color inverts when the space bar is pressed, and the visible obstacles change. You can view the Launch trailer that I made."
+  },
+  {
+    "objectID": "Projects.html#korea-youth-game-jam-august-2022",
+    "href": "Projects.html#korea-youth-game-jam-august-2022",
+    "title": "Projects",
+    "section": "2022 Korea Youth Game Jam (August 2022)",
+    "text": "2022 Korea Youth Game Jam (August 2022)\n\n\nI participated in the 2022 Korea Youth Game Jam (I’m the one in the second picture!) and won the Grand prize with my teammates. You can watch the gameplay video here."
+  },
+  {
+    "objectID": "Projects.html#woongjin-math-game-development-challenge-august-2022-december-2022",
+    "href": "Projects.html#woongjin-math-game-development-challenge-august-2022-december-2022",
+    "title": "Projects",
+    "section": "Woongjin Math Game Development Challenge (August 2022 ~ December 2022)",
+    "text": "Woongjin Math Game Development Challenge (August 2022 ~ December 2022)\n\nAdditionally, based on this game development experience, I participated in the Woongjin Math Game Development Challenge and received an $1,000 with my team for the participant award."
+  },
+  {
+    "objectID": "Projects.html#viva-la-vida-loopstation-performance-at-charity-concert-november-2022",
+    "href": "Projects.html#viva-la-vida-loopstation-performance-at-charity-concert-november-2022",
+    "title": "Projects",
+    "section": "Viva la vida loopstation performance at charity concert (November 2022)",
+    "text": "Viva la vida loopstation performance at charity concert (November 2022)\n\nAside from math and science, I like to compose and play my own music. You can also check out my Soundcloud. I performed “Viva La Vida” by Coldplay with a loop station at the Music Sharing Concert with Seoul International High School. You can watch my performance video here."
+  },
+  {
+    "objectID": "Projects.html#world-mathematics-team-championship-november-2023",
+    "href": "Projects.html#world-mathematics-team-championship-november-2023",
+    "title": "Projects",
+    "section": "World Mathematics Team Championship (November 2023)",
+    "text": "World Mathematics Team Championship (November 2023)\n\nI gathered a team at school and competed in WMTC 2023 as ‘Team Burvaki’. Our team ranked 2nd overall, and I achieved 9th place individually with gold medal. 2023 WMTC results"
+  },
+  {
     "objectID": "Projects.html#everyones-ocw",
     "href": "Projects.html#everyones-ocw",
     "title": "Projects",
     "section": "Everyone’s OCW",
     "text": "Everyone’s OCW\nTo realize the freedom of learning!"
-  },
-  {
-    "objectID": "Projects.html#minecraft-clone-game",
-    "href": "Projects.html#minecraft-clone-game",
-    "title": "Projects",
-    "section": "Minecraft Clone Game",
-    "text": "Minecraft Clone Game\nUse OpenGL and pygame."
   },
   {
     "objectID": "docs/blog/posts/2023-08-05/index.html",
@@ -89,5 +117,12 @@
     "title": "Hyunjin Lee",
     "section": "Activities",
     "text": "Activities\nKorean Minecraft Forum Editor | August 2018 - present"
+  },
+  {
+    "objectID": "about.html#scholarships",
+    "href": "about.html#scholarships",
+    "title": "Hyunjin Lee",
+    "section": "Scholarships",
+    "text": "Scholarships\nKAIST Science Gifted Scholarship | awarded 500$/year, July 2023 - present"
   }
 ]
